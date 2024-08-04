@@ -1,0 +1,2 @@
+# StoreInventaryHardware
+Tienda inventario 
